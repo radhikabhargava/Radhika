@@ -1,0 +1,33 @@
+baseurl: https://example.org
+languageCode: en-us
+title: Lithium Theme
+theme: hugo-lithium-theme
+googleAnalytics: ''
+disqusShortname: ''
+disableKinds:
+  - taxonomy
+  - taxonomyTerm
+  - section
+  - '404'
+permalinks:
+  page: /:title/
+  post: /:year/:month/:day/:title/
+menu:
+  main:
+    - name: About
+      url: /about/
+    - name: GitHub
+      url: ''
+    - name: Twitter
+      url: ''
+params:
+  description: ''
+  favicon: favicon.ico
+  icon:
+    url: favicon.ico
+  logo:
+    alt: Logo
+    height: 50
+    url: logo.png
+    width: 50
+  mainSections: post
