@@ -1,11 +1,8 @@
 ---
-title: "Ongoing Projects"
-author: "radhika"
-date: "6/12/2021"
-output: html_document
+date: "2016-05-05T21:48:51-07:00"
+title: Projects
 ---
 
-Under the consultance and guidance of senior professors in the department, here are some larger projects I am part of. 
 
 _**Online Psychometrics Center**_ (since August 2019)
 

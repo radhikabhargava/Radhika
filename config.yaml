@@ -14,14 +14,15 @@ permalinks:
   post: /:year/:month/:day/:title/
 menu:
   main:
-    - name: About
+    - name: Ongoing Projects
+      url: /projects/
+    - name: About2
       url: /about/
     - name: GitHub
       url: ''
     - name: Twitter
       url: ''
-    - name: Ongoing Projects
-      url: /projects/
+    
 params:
   description: ''
   favicon: favicon.ico
