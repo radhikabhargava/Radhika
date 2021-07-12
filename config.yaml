@@ -21,7 +21,7 @@ menu:
     - name: Twitter
       url: ''
     - name: Ongoing Projects
-      url: /projects.Rmd/
+      url: /about/
 params:
   description: ''
   favicon: favicon.ico
