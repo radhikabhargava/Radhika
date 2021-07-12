@@ -16,12 +16,9 @@ menu:
   main:
     - name: Ongoing Projects
       url: /projects/
-    - name: About2
-      url: /about/
-    - name: GitHub
-      url: ''
-    - name: Twitter
-      url: ''
+    - name: Publications and Conferences
+      url: /publications/
+
     
 params:
   description: ''
