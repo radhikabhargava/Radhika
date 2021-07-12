@@ -21,7 +21,7 @@ menu:
     - name: Twitter
       url: ''
     - name: Ongoing Projects
-      url: /ongoing_projects/
+      url: /projects/
 params:
   description: ''
   favicon: favicon.ico
