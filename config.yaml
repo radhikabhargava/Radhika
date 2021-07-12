@@ -1,4 +1,4 @@
-baseurl: https://example.org
+baseurl: https://radhikabhargava1.netlify.app/
 languageCode: en-us
 title: Lithium Theme
 theme: hugo-lithium-theme
@@ -20,6 +20,8 @@ menu:
       url: ''
     - name: Twitter
       url: ''
+    - name: Ongoing Projects
+      url: /projects/
 params:
   description: ''
   favicon: favicon.ico
