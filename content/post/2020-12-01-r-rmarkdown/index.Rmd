@@ -1,37 +1,55 @@
 ---
-title: "Hello R Markdown"
-author: "Frida Gomam"
-date: 2020-12-01T21:13:14-05:00
+title: "About Me"
+author: "Radhika Bhargava"
+date: 2021-07-11T21:13:14-05:00
 categories: ["R"]
 tags: ["R Markdown", "plot", "regression"]
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(collapse = TRUE)
-```
 
-# R Markdown
+This is my academic website to give a quick overview of the little modest work I have done or am doing in the field of Psychology. I teach and conduct my research at University of Mumbai's Department of Applied Psychology. 
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+I work in the areas of personality and trait psychology, political psychology and leadership in the political space. Understanding how individual differences like personality, moral values, ideological systems are structured in India's indigenous languages is of special interest to me. 
 
-You can embed an R code chunk like this:
+Simultaneously, I also study how theories and approaches of psychology can help us understand contemporary and modern political phenomenon like voting, preferences, leader perceptions and group dynamics. 
 
-```{r cars}
-summary(cars)
-fit <- lm(dist ~ speed, data = cars)
-fit
-```
+I wish to make my small contribution in understanding India better through the lens of a psychologist. If you share a similar vision or have questions about my work, you'll find my email ID below. Thanks for reading through! 
 
-# Including Plots
+-Radhika
 
-You can also embed plots. See Figure \@ref(fig:pie) for example:
+Email at radhikabhargava@mu.ac.in
 
-```{r pie, fig.cap='A fancy pie chart.', tidy=FALSE}
-par(mar = c(0, 1, 0, 1))
-pie(
-  c(280, 60, 20),
-  c('Sky', 'Sunny side of pyramid', 'Shady side of pyramid'),
-  col = c('#0292D8', '#F7EA39', '#C4B632'),
-  init.angle = -50, border = NA
+
+\
+
+Below is a summary of my educational background and work experience. 
+
+**My Educational Background**
+```{r, echo=FALSE, results='asis'}
+library (knitr)
+educ = data.frame(
+  Degree = c("Grade 12", "Bachelor of Arts (Psychology Major)", "Master of Arts (Applied Psychology"),
+  University = c("Jai Hind College", "Jai Hind College", "University of Mumbai"),
+  GradePercentage = c("83.83%", "6.98/7.00", "8.22/10.00"),
+  year = c("2013", "2016", "2018")
 )
+
+kable(educ, col.names = c("Degree", "College/ University", "Grade/ CGPA/ Percentage", "Year of Completion"), align = c("l", "c", "c", "c"))
+```
+
+
+\
+
+
+**My Teaching & Work Experience**
+```{r, echo=FALSE, results='asis'}
+library (knitr)
+work = data.frame(
+  college = c("L.S. Raheja College of Arts and Commerce", "University of Mumbai"),
+  course = c("BA", "MA"),
+  papers = c("Testing and Statistics for Psychology, I/O Psychology", "Personality, Cognition and Emotion, Statistics, Political Psychology, Neuropsychology"),
+  year = c("AY 2018-19", "AY 2019-20 & 2020-21")
+)
+
+kable(work, col.names = c("College/ University", "Course", "Papers taught", "Year"), align = c("l", "c", "l","c"))
 ```

@@ -1,6 +1,6 @@
 baseurl: https://radhikabhargava1.netlify.app/
 languageCode: en-us
-title: Lithium Theme
+title: Radhika
 theme: hugo-lithium-theme
 googleAnalytics: ''
 disqusShortname: ''
@@ -18,8 +18,7 @@ menu:
       url: /projects/
     - name: Publications and Conferences
       url: /publications/
-    - name: Education & Teaching
-      url: /education/
+
     
 params:
   description: ''
@@ -32,3 +31,8 @@ params:
     url: logo.png
     width: 50
   mainSections: post
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
