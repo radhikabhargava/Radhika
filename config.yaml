@@ -18,7 +18,8 @@ menu:
       url: /projects/
     - name: Publications and Conferences
       url: /publications/
-
+    - name: Education & Teaching
+      url: /education/
     
 params:
   description: ''
