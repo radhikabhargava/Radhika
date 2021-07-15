@@ -1,8 +1,7 @@
 ---
 title: "Publications/ Conferences"
-author: "radhika"
-date: "6/12/2021"
-output: html_document
+date: '2016-05-05T21:48:51-07:00'
+
 ---
 This is a list of the research projects I am part of, bifurcated by broad areas of study. 
 
