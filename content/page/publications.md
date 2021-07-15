@@ -12,14 +12,16 @@ _**Personality Psychology**_
 
 2. Development of Mumbai University Personality Inventory: Measuring Personality beyond the Big 5 
 
-3. Study of Structure of Personality in 6 Indian languages using the Self-Descriptor Generation Method (Hindi, Marathi, Konkani, Kannada, Malayalam, Tamil)
+3. Exploring personality structure in Kannada speakers using psycho-lexical and text mining methods
 
-4. Exploring personality structure in Kannada speakers using psycho-lexical and text mining methods
+4. Study of Structure of Personality in 6 Indian languages using the Self-Descriptor Generation Method (Hindi, Marathi, Konkani, Kannada, Malayalam, Tamil)
+
+
 
 
 _**Political and leadership psychology**_
 
-1. “A Sentiment and Cluster Analysis Approach to Investigate Followers’ Evaluation of Political Leaders in India” – presented at BPA, 2020
+1. “A Sentiment and Cluster Analysis Approach to Investigate Followers’ Evaluation of Political Leaders in India” – presented at BPA, 2020 [View Presentation](https://drive.google.com/file/d/1GDVaf1ajXozWbxOeMS4zGsv4g7-sMPHk/view?usp=sharing)
 
 2. “An Exploration Of ‘Big Two’ In Political and Corporate Leaders: A Lexical Approach” – accepted for oral presentation at International Congress of Cross-Cultural Psychology
 
