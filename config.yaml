@@ -9,17 +9,19 @@ disableKinds:
   - taxonomyTerm
   - section
   - '404'
+
 permalinks:
   page: /:title/
   post: /:year/:month/:day/:title/
+
 menu:
   main:
     - name: Ongoing Projects
       url: /projects/
     - name: Publications and Conferences
       url: /publications/
-    
-    
+
+   
 params:
   description: ''
   favicon: favicon.ico
