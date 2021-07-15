@@ -20,8 +20,13 @@ menu:
       url: /projects/
     - name: Publications and Conferences
       url: /publications/
+<<<<<<< HEAD
 
    
+=======
+    
+    
+>>>>>>> 243976534472db7acc34262378588b2cc136f671
 params:
   description: ''
   favicon: favicon.ico
